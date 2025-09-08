@@ -1,0 +1,6 @@
+# Allow all search engines to index everything
+User-agent: *
+Disallow:
+
+# Link to sitemap
+Sitemap: https://onestop9t9.vercel.app/Sitemap.xml
